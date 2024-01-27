@@ -1,1 +1,1 @@
-curl http://localhost:3399/albums
+curl http://localhost:3399/albums  -v 
