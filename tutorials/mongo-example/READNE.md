@@ -1,0 +1,2 @@
+- https://www.mongodb.com/docs/drivers/go/current/
+- https://www.mongodb.com/docs/drivers/go/current/fundamentals/connections/connection-guide/#std-label-golang-connection-guide
