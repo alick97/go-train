@@ -23,6 +23,6 @@ func test_call_append_param_by_coping() {
 	show2(sList...)
 }
 
-func main() {
-	test_call_append_param_by_coping()
-}
+// func main() {
+// 	test_call_append_param_by_coping()
+// }
